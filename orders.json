@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Eszterházy u. 44",
+      "postal_code": "2840",
+      "city": "Oroszlány",
+      "country": "Hungary",
+      "lat": "47.48122154188405",
+      "lng": "18.326668510626128"
     }
   }
 }
