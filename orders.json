@@ -1,0 +1,47 @@
+{
+  "SE428152711DE": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Germany",
+    "receiver": "Patrik Cozma, Takács Imre utca 37 1/3, 2840 Oroszlány, Hungary",
+    "price": "3.390 €",
+    "description": "Manufacturer: Yamaha<br>Model: YZF-R125<br>Chassis number: VG5RE391000009660<br>First registration: 06/2020<br>Mileage according to previous owner: 21.098 km<br>Power: 11 kW (15 PS)<br>Engine capacity: 125 cm³<br>Color: black<br><br>The motorcycle is fully functional, no falls or accidents.<br>All papers and keys are included.",
+    "address": "Patrik Cozma<br>Eszterházy utca 44<br>2840 Oroszlány<br>Hungary<br>Telefon: +36 306635170",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "27.03.2026",
+    "deliveryDate": "02.04.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
